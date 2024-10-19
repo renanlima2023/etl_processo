@@ -41,14 +41,3 @@ Siga estas etapas para configurar o projeto em sua máquina local:
    pip install -r requirements.txt
    ```
 
-## Uso
-
-[Adicione aqui instruções sobre como usar o projeto]
-
-## Contribuição
-
-[Adicione aqui instruções sobre como contribuir para o projeto]
-
-## Licença
-
-[Adicione aqui informações sobre a licença do projeto]
