@@ -41,7 +41,7 @@ Siga estas etapas para configurar o projeto em sua máquina local:
    pip install -r requirements.txt
    ```
 ## Uso
-Para rodar o projeto execute o comando abaixo:
+Para rodar o projeto execute o comando:
 python src/pipeline.py
 
 ## Estrututa do Projeto
