@@ -40,4 +40,10 @@ Siga estas etapas para configurar o projeto em sua máquina local:
    ```
    pip install -r requirements.txt
    ```
+## Uso
+Para rodar o projeto execute o comando abaixo:
+python src/pipeline.py
 
+## Estrututa do Projeto
+`data/input/vendas.csv`: Aquivo contendo dados de vendas.
+`data/ouput/vendas.parquet`: Arquivo Parquet contendo os dados transformados.
